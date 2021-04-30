@@ -1,5 +1,6 @@
 # dump
 ![Build Status](https://github.com/harranali/dump/actions/workflows/build-main.yml/badge.svg)
+[![GoDoc](https://godoc.org/github.com/harranali/dump?status.svg)](https://godoc.org/github.com/harranali/dump)
 A simple Go package to perform Dump and Die
 
 # Install
