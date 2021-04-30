@@ -10,7 +10,7 @@ A simple Go package to perform Dump and Die
 go get github.com/harranali/dump
 ```
 
-#usage 
+# Usage 
 Dumping a Struct:
 ```go
 package main
