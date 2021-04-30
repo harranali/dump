@@ -7,7 +7,7 @@ go get github.com/harranali/dump
 ```
 
 #usage 
-Dumping Struct:
+Dumping a Struct:
 ```go
 package main
 
@@ -74,7 +74,7 @@ func main() {
 #Value: 123.43
 ```
 
-Dumping Channel:
+Dumping a Channel:
 ```go
 package main
 
@@ -94,7 +94,7 @@ func main() {
 #Value: <nil>
 ```
 
-Dumping Interface:
+Dumping an Interface:
 ```go
 package main
 
