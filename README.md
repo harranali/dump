@@ -1,4 +1,5 @@
 # dump
+![Build Status](https://github.com/harranali/dump/actions/workflows/build-master.yml/badge.svg)
 A simple Go package to perform Dump and Die
 
 # Install
