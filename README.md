@@ -3,7 +3,7 @@
 [![GoDoc](https://godoc.org/github.com/harranali/dump?status.svg)](https://godoc.org/github.com/harranali/dump)
 [![Go Report Card](https://goreportcard.com/badge/github.com/harranali/dump)](https://goreportcard.com/report/github.com/harranali/dump)
 
-A simple Go package to perform Dump and Die
+A simple Go package to perform Dump and Die.
 
 # Install
 ```bash
